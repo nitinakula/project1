@@ -1,7 +1,7 @@
 package vo;
 
 public class Student {
-	private int studentId;
+	private int studentId; #comment
 	private String studentName;
 	private String studentAddr;
 	private String age;
